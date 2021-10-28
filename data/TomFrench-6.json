@@ -1,0 +1,9 @@
+{
+  "contest": "BadgerDAO ibBTC Wrapper contest",
+  "handle": "TomFrench",
+  "address": "0x60959Ed8307EE2b0d04306f6b319AEeE8864f1Ee",
+  "risk": "2",
+  "title": "Token is not ERC20 compliant (potential DOS of other contracts by oracle)",
+  "issueId": 6,
+  "issueUrl": "https://github.com/code-423n4/2021-10-badgerdao-findings/issues/6"
+}
