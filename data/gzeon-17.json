@@ -1,0 +1,9 @@
+{
+  "contest": "BadgerDAO ibBTC Wrapper contest",
+  "handle": "gzeon",
+  "address": "0x945D28dF9779795BDab5BC6FDD9f36c0Ef1F7190",
+  "risk": "3",
+  "title": "Inconsistent ERC20 function may lead to DOS and unexpected behaviour",
+  "issueId": 17,
+  "issueUrl": "https://github.com/code-423n4/2021-10-badgerdao-findings/issues/17"
+}
