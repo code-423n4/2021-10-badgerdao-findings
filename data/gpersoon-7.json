@@ -1,0 +1,9 @@
+{
+  "contest": "BadgerDAO ibBTC Wrapper contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "3",
+  "title": "Profit from difference between core.pricePerShare() and pricePerShare() ",
+  "issueId": 7,
+  "issueUrl": "https://github.com/code-423n4/2021-10-badgerdao-findings/issues/7"
+}
