@@ -1,0 +1,9 @@
+{
+  "contest": "BadgerDAO ibBTC Wrapper contest",
+  "handle": "pmerkleplant",
+  "address": "0x7125412Fc011D74C26E3CA768aB6224643702313",
+  "risk": "1",
+  "title": "Lack of `address(0)` check",
+  "issueId": 26,
+  "issueUrl": "https://github.com/code-423n4/2021-10-badgerdao-findings/issues/26"
+}
