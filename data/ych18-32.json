@@ -1,0 +1,9 @@
+{
+  "contest": "BadgerDAO ibBTC Wrapper contest",
+  "handle": "ych18",
+  "address": "0x02435fb305D2BBA609E044279C50498Abe279380",
+  "risk": "1",
+  "title": "No restriction for initialize() function",
+  "issueId": 32,
+  "issueUrl": "https://github.com/code-423n4/2021-10-badgerdao-findings/issues/32"
+}
