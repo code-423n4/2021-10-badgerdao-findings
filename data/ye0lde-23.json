@@ -1,0 +1,9 @@
+{
+  "contest": "BadgerDAO ibBTC Wrapper contest",
+  "handle": "ye0lde",
+  "address": "0x81D4cf8A3892557e4a1571e97b88f0351eF0dcFD",
+  "risk": "1",
+  "title": "Both msg.sender and _msgSender() are being used",
+  "issueId": 23,
+  "issueUrl": "https://github.com/code-423n4/2021-10-badgerdao-findings/issues/23"
+}
