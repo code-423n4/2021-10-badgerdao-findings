@@ -1,0 +1,9 @@
+{
+  "contest": "BadgerDAO ibBTC Wrapper contest",
+  "handle": "JMukesh",
+  "address": "0x70aF29f754988473fcAbA6E01AbfbafF871046d1",
+  "risk": "0",
+  "title": "No address(0) validation in initialize()",
+  "issueId": 84,
+  "issueUrl": "https://github.com/code-423n4/2021-10-badgerdao-findings/issues/84"
+}
