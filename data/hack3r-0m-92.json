@@ -1,0 +1,9 @@
+{
+  "contest": "BadgerDAO ibBTC Wrapper contest",
+  "handle": "hack3r-0m",
+  "address": "0x825aE6fb177186e9551ab1CDd6D4aB10B22A0Dba",
+  "risk": "G",
+  "title": "Use immutable keyword on ibbtc interface",
+  "issueId": 92,
+  "issueUrl": "https://github.com/code-423n4/2021-10-badgerdao-findings/issues/92"
+}
