@@ -1,0 +1,9 @@
+{
+  "contest": "BadgerDAO ibBTC Wrapper contest",
+  "handle": "hack3r-0m",
+  "address": "0x825aE6fb177186e9551ab1CDd6D4aB10B22A0Dba",
+  "risk": "1",
+  "title": "Logical issue in governance event emission",
+  "issueId": 89,
+  "issueUrl": "https://github.com/code-423n4/2021-10-badgerdao-findings/issues/89"
+}
