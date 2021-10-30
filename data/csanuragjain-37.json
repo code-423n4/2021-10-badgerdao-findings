@@ -1,0 +1,9 @@
+{
+  "contest": "BadgerDAO ibBTC Wrapper contest",
+  "handle": "csanuragjain",
+  "address": "0xd295584135829D89427674B72560222B06E08a15",
+  "risk": "G",
+  "title": "Mint function will fail in most cases",
+  "issueId": 37,
+  "issueUrl": "https://github.com/code-423n4/2021-10-badgerdao-findings/issues/37"
+}
