@@ -1,0 +1,9 @@
+{
+  "contest": "BadgerDAO ibBTC Wrapper contest",
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "2",
+  "title": "`pricePerShare` is only lazily updated",
+  "issueId": 39,
+  "issueUrl": "https://github.com/code-423n4/2021-10-badgerdao-findings/issues/39"
+}
