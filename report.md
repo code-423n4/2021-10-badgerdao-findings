@@ -1,3 +1,11 @@
+---
+sponsor: "BadgerDAO"
+slug: "2021-10-badgerdao"
+date: "2021-12-16"
+title: "BadgerDAO ibBTC Wrapper contest"
+findings: "https://github.com/code-423n4/2021-10-badgerdao-findings/issues"
+contest: 47
+---
 
 # Overview
 
